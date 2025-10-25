@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**koiri-tehmalo/koiri-tehmalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 สถิติ GitHub ของผม
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Koiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=koiri-tehmalo&show_icons=true&theme=tokyonight)
+
+---
+
+### 🧠 ภาษาที่ผมใช้บ่อยที่สุด
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koiri-tehmalo&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 ติดต่อผมได้ที่
+- 💼 [GitHub Profile](https://github.com/koiri-tehmalo)
+- ✉️ Email: khayreetehmalo@gmail.com

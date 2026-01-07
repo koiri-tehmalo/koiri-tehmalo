@@ -3,13 +3,13 @@
 
 ### 💡 สถิติ GitHub ของผม
 
-![Koiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=koiri-tehmalo&show_icons=true&theme=tokyonight)
+![Koiri's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=koiri-tehmalo&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 🧠 ภาษาที่ผมใช้บ่อยที่สุด
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koiri-tehmalo&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=koiri-tehmalo&layout=compact&theme=tokyonight)
 
 ---
 
